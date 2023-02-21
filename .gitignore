@@ -2,3 +2,5 @@
 __pycache__/
 *.xlsx
 functions_forcrawl.py
+chromedriver.exe
+LICENSE.chromedriver
